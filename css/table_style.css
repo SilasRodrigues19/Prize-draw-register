@@ -1,0 +1,58 @@
+#sorter {
+	text-align: center;
+}
+
+table {
+	animation: zoomIn;
+	animation-duration: 4s;
+}
+
+.row:nth-of-type(1)  {
+	animation: fadeIn;
+	animation-duration: 7s;
+}
+
+
+.col label {
+	text-transform: capitalize;
+}
+
+.ex_highlight #sorter tbody tr.even:hover, #sorter tbody tr.even td.highlighted {
+	background-color: #ECFFB3;
+}
+
+.ex_highlight #sorter tbody tr.odd:hover, #sorter tbody tr.odd td.highlighted {
+	background-color: #E6FF99;
+}
+
+.ex_highlight_row #sorter tr.even:hover {
+	background-color: #ECFFB3;
+}
+
+.ex_highlight_row #sorter tr.even:hover td.sorting_1 {
+	background-color: #DDFF75;
+}
+
+.ex_highlight_row #sorter tr.even:hover td.sorting_2 {
+	background-color: #E7FF9E;
+}
+
+.ex_highlight_row #sorter tr.even:hover td.sorting_3 {
+	background-color: #E2FF89;
+}
+
+.ex_highlight_row #sorter tr.odd:hover {
+	background-color: #E6FF99;
+}
+
+.ex_highlight_row #sorter tr.odd:hover td.sorting_1 {
+	background-color: #D6FF5C;
+}
+
+.ex_highlight_row #sorter tr.odd:hover td.sorting_2 {
+	background-color: #E0FF84;
+}
+
+.ex_highlight_row #sorter tr.odd:hover td.sorting_3 {
+	background-color: #DBFF70;
+}
