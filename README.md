@@ -62,7 +62,7 @@ The website is divided into:
 Technologies used in the project.
 
 ### Web Frameworks
-* [Bulma](https://bulma.io)
+* [Bootstrap](https://getbootstrap.com)
 
 ### JavaScript Libraries
 * [jQuery](https://jquery.com)
@@ -74,7 +74,6 @@ Technologies used in the project.
 
 ### Plugins
 * [jQuery Validator](https://jqueryvalidation.org)
-* [jQuery Mask](https://igorescobar.github.io/jQuery-Mask-Plugin/docs.html)
 
 
 <!-- CONTRIBUTING -->
