@@ -100,21 +100,21 @@ This work is licensed under a MIT License. See `LICENSE` for more information
 
 Silas Rodrigues - [@jinuye1](https://twitter.com/jinuye1) - silasrodrigues.fatec@gmail.com
 
-Project Link: [https://github.com/SilasRodrigues19/CRUD-com-PDO](https://github.com/SilasRodrigues19/CRUD-com-PDO)
+Project Link: [https://github.com/SilasRodrigues19/Prize-draw-register](https://github.com/SilasRodrigues19/Prize-draw-register)
 
    
    <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/SilasRodrigues19/CRUD-com-PDO.svg?style=for-the-badge
-[contributors-url]: https://github.com/SilasRodrigues19/CRUD-com-PDO/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SilasRodrigues19/CRUD-com-PDO.svg?style=for-the-badge
-[forks-url]: https://github.com/SilasRodrigues19/CRUD-com-PDO/network/members
-[stars-shield]: https://img.shields.io/github/stars/SilasRodrigues19/CRUD-com-PDO.svg?style=for-the-badge
-[stars-url]: https://github.com/SilasRodrigues19/CRUD-com-PDO/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SilasRodrigues19/CRUD-com-PDO.svg?style=for-the-badge
-[issues-url]: https://github.com/SilasRodrigues19/CRUD-com-PDO/issues
-[license-shield]: https://img.shields.io/github/license/SilasRodrigues19/CRUD-com-PDO.svg?style=for-the-badge
-[license-url]: https://github.com/SilasRodrigues19/CRUD-com-PDO/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/SilasRodrigues19/Prize-draw-register.svg?style=for-the-badge
+[contributors-url]: https://github.com/SilasRodrigues19/Prize-draw-register/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SilasRodrigues19/Prize-draw-register.svg?style=for-the-badge
+[forks-url]: https://github.com/SilasRodrigues19/Prize-draw-register/network/members
+[stars-shield]: https://img.shields.io/github/stars/SilasRodrigues19/Prize-draw-register.svg?style=for-the-badge
+[stars-url]: https://github.com/SilasRodrigues19/Prize-draw-register/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SilasRodrigues19/Prize-draw-register.svg?style=for-the-badge
+[issues-url]: https://github.com/SilasRodrigues19/Prize-draw-register/issues
+[license-shield]: https://img.shields.io/github/license/SilasRodrigues19/Prize-draw-register.svg?style=for-the-badge
+[license-url]: https://github.com/SilasRodrigues19/Prize-draw-register/blob/main/LICENSE
 [About View]: https://github.com/SilasRodrigues19/Prize-draw-register/blob/main/ptscreens/cadastro.png
 [About View2]: https://github.com/SilasRodrigues19/Prize-draw-register/blob/main/ptscreens/home.png
 [About View3]: https://github.com/SilasRodrigues19/Prize-draw-register/blob/main/ptscreens/listagem.png
