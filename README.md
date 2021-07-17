@@ -44,9 +44,6 @@
 ## About The Project
 
 [![About View][About View]](https://github.com/SilasRodrigues19/Prize-draw-register)
-[![About View2][About View2]](https://github.com/SilasRodrigues19/Prize-draw-register)
-[![About View3][About View3]](https://github.com/SilasRodrigues19/Prize-draw-register)
-[![About View4][About View4]](https://github.com/SilasRodrigues19/Prize-draw-register)
 
 
 
@@ -114,8 +111,4 @@ Project Link: [https://github.com/SilasRodrigues19/Prize-draw-register](https://
 [issues-url]: https://github.com/SilasRodrigues19/Prize-draw-register/issues
 [license-shield]: https://img.shields.io/github/license/SilasRodrigues19/Prize-draw-register.svg?style=for-the-badge
 [license-url]: https://github.com/SilasRodrigues19/Prize-draw-register/blob/main/LICENSE
-[About View]: https://github.com/SilasRodrigues19/Prize-draw-register/blob/main/ptscreens/cadastro.png
-[About View2]: https://github.com/SilasRodrigues19/Prize-draw-register/blob/main/ptscreens/home.png
-[About View3]: https://github.com/SilasRodrigues19/Prize-draw-register/blob/main/ptscreens/listagem.png
-[About View4]: https://github.com/SilasRodrigues19/Prize-draw-register/blob/main/ptscreens/login.png
-
+[About View]: https://github.com/SilasRodrigues19/Prize-draw-register/blob/main/ptscreens/preview.gif
