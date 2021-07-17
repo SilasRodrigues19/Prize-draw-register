@@ -111,4 +111,4 @@ Project Link: [https://github.com/SilasRodrigues19/Prize-draw-register](https://
 [issues-url]: https://github.com/SilasRodrigues19/Prize-draw-register/issues
 [license-shield]: https://img.shields.io/github/license/SilasRodrigues19/Prize-draw-register.svg?style=for-the-badge
 [license-url]: https://github.com/SilasRodrigues19/Prize-draw-register/blob/main/LICENSE
-[About View]: https://github.com/SilasRodrigues19/Prize-draw-register/blob/main/ptscreens/preview.gif
+[About View]: https://github.com/SilasRodrigues19/Prize-draw-register/blob/main/img/preview.gif
